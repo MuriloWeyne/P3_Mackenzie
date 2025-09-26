@@ -3,6 +3,6 @@ Repositório utilizado para o desenvolvimento do Projeto Aplicado III do Institu
 
 ## Integrantes do grupo
 
-Amarildo Maciel Junior - RA: 
-Murilo Prado Weyne - RA: 10428607
-Paulo Henrique Lasmar Telles - RA: 
+- Amarildo Maciel Junior - RA: 
+- Murilo Prado Weyne - RA: 10428607
+- Paulo Henrique Lasmar Telles - RA: 
